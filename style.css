@@ -1,0 +1,16 @@
+.post {
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.post-toggle {
+    margin-top: 1rem;
+}
+
+.post-toggle-btn {
+    margin-top: 1rem;
+}
+
+.post-readmore-btn {
+    margin-top: 1rem;
+}
